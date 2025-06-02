@@ -1,4 +1,4 @@
-package de.morhenn.ar_navigation.pages
+
 
 import android.content.Intent
 import android.widget.Toast
