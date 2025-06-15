@@ -94,7 +94,7 @@ Edit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/astu-smart-campus-app.git
+   git clone https://github.com/crackasuper/AR-Navigation.git
 Open in Android Studio
 
 Add your Firebase google-services.json in the app/ directory
