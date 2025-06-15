@@ -102,9 +102,6 @@ Build and run on ARCore-supported Android device
 This project is licensed under the MIT License.
 Feel free to use and improve it for academic or research purposes.
 
-🙌 Authors
+🙌 Author
 Sadem Hussen – LinkedIn | GitHub
 
-vbnet
-Copy
-Edit
