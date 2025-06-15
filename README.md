@@ -84,9 +84,6 @@ app/
 ├── chatbot/ # OpenAI/Firebase hybrid chatbot
 └── MainActivity.kt
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -103,10 +100,5 @@ Replace API keys in ChatBotViewModel (OpenAI/OpenRouter)
 
 Build and run on ARCore-supported Android device
 
-📄 License
-This project is licensed under the MIT License.
-Feel free to use and improve it for academic or research purposes.
 
-🙌 Author
-Sadem Hussen – LinkedIn | GitHub
 
