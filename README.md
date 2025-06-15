@@ -39,9 +39,11 @@ A smart Android application built using **Kotlin**, **Jetpack Compose**, **ARCor
 > Add screenshots of:
 - Home Screen
 - ![image alt](https://github.com/crackasuper/AR-Navigation/blob/435188a6c7b0017b3e829e03c8f644fad210f5e6/Screenshot%20from%202024-12-15%2022-38-05.png)
+- Dashboard
 - AR Navigation
 - Chatbot
 - Admin Panel
+- ![image alt](https://github.com/crackasuper/AR-Navigation/blob/4f51ca9aa627eb7844d5c8d503049f71fa3ebfc1/photo_2025-06-15_10-16-04.jpg)
 
 ---
 
