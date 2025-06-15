@@ -42,6 +42,7 @@ A smart Android application built using **Kotlin**, **Jetpack Compose**, **ARCor
 - Dashboard
 - ![image alt](https://github.com/crackasuper/AR-Navigation/blob/07fd23374dd4a2cecddb7a52cd206e9991a1f991/photo_2025-06-15_10-16-21.jpg)
 - AR Navigation
+- ![image alt](https://github.com/crackasuper/AR-Navigation/blob/f7a3b661c2bdcd04b10895bdaa98d55570e566f5/photo_2025-06-15_10-16-17.jpg)
 - Chatbot
 - Admin Panel
 - ![image alt](https://github.com/crackasuper/AR-Navigation/blob/4f51ca9aa627eb7844d5c8d503049f71fa3ebfc1/photo_2025-06-15_10-16-04.jpg)
